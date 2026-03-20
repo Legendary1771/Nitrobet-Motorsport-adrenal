@@ -1,0 +1,7 @@
+{
+  "name": "NitroBet: Motorsport Adrenaline",
+  "description": "A high-octane motorsport betting platform featuring real-time odds for F1, WRC, and GT racing, powered by an AI Race Strategist.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
